@@ -1,0 +1,39 @@
+{
+	"id": -1,
+	"name": "Miles \"Tails\" Prower",
+	"description": "Miles \"Tails\" Prower is Sonic's best friend and genius fox sidekick.",
+	"links": {
+		"subreddit": [
+			"milesprower"
+		],
+		"discord": [
+			"tails"
+		]
+	},
+	"path": {
+		"174": [
+			[
+				93,
+				934
+			],
+			[
+				93,
+				947
+			],
+			[
+				107,
+				947
+			],
+			[
+				106,
+				934
+			]
+		]
+	},
+	"center": {
+		"174": [
+			100,
+			941
+		]
+	}
+}
